@@ -42,5 +42,5 @@ body {
 }
 
 .jumbotron p.active {
-     color: #1f6ddd;
+     color: red;
 }

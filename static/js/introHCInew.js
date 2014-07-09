@@ -11,6 +11,8 @@ $(document).ready(function() {
 function initializePage() {
 	$("#testjs").click(function(e) {
 		$('.jumbotron h1').text("Javascript is connected");
+			$('.jumbotron h1').text("Javascript is connected");
+		$('#testjs').text("clicked");
 	});
 
 	// Add any additional listeners here
